@@ -5,4 +5,4 @@
 •	I am 17 years old
 •	This is my repository about my Programming Fundamentals Assignment.
 
-![download](https://github.com/user-atusertachments/assets/2587a671-bc48-443d-b072-fad1a8e17560)
+![coding-skills-apu](https://github.com/user-attachments/assets/fbdb5d35-203b-4076-a78a-f2871ba628d0)
